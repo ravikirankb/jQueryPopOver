@@ -1,2 +1,2 @@
-# jQueryPopOver
-Simple jQuery Pop over dialog
+# jQueryPopUp
+Simple jQuery Popup dialog
